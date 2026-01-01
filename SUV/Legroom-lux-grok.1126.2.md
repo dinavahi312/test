@@ -10,7 +10,7 @@ The table has been retained with inline citations added where applicable, refere
 |------------------------------|--------------------------------------------|--------------------|---------------|------------------------|----------------|---------------|-----------------|--------------------|-------------------------|------------------------|--------------------------------|---------------------------------|------------------------|--------------------------|
 | 2026 Acura MDX               | Base, Technology, A-Spec, Advance, Type S  | 53150
 13
- | 290/355       | 6.4/5.5                | 19-22          | N/A           | N/A             | 41.6               | 38.5                    | 29.1                   | 16.3                           | 39.1                            | 71.4                   | No (tight legroom)
+ | 290/355       | 6.4/5.5                | 19-22          | N/A           | N/A             | 41.6               | 38.5                    | 29.1                   | 16.3                           | 39.1                            | 71.4                   | No (tight legroom) | 
 2
  |
 | 2026 Audi Q7                 | Premium, Premium Plus, Prestige, SQ7       | 60900              | 261/500       | 5.5/3.6
@@ -31,13 +31,13 @@ The table has been retained with inline citations added where applicable, refere
 | 2026 Genesis GV80            | 2.5T, 2.5T Select, 2.5T Advanced, 3.5T    | 59000
 10
  | 300/375       | 5.7/4.9                | 20             | N/A           | N/A             | 41.6               | 38.7                    | 30.3                   | 11.6                           | 38.7                            | 71.7                   | No (tight space) |
-| 2026 Infiniti QX60           | Pure, Luxe, Sensory, Autograph             | 50000              | 295           | 6.5                    | 24             | N/A           | N/A             | 42.1               | 37.7                    | 28.0                   | 14.5                           | 41.6                            | 75.4                   | No (compact third row)
+| 2026 Infiniti QX60           | Pure, Luxe, Sensory, Autograph             | 50000              | 295           | 6.5                    | 24             | N/A           | N/A             | 42.1               | 37.7                    | 28.0                   | 14.5                           | 41.6                            | 75.4                   | No (compact third row) | 
 13
  |
-| 2026 Infiniti QX80           | Pure, Luxe, Sensory, Autograph             | 85000              | 450           | 5.4                    | 18             | N/A           | N/A             | 43.8               | 39.2                    | 32.9                   | 22.0                           | 59.7                            | 101.0                  | Marginal (decent but not ideal)
+| 2026 Infiniti QX80           | Pure, Luxe, Sensory, Autograph             | 85000              | 450           | 5.4                    | 18             | N/A           | N/A             | 43.8               | 39.2                    | 32.9                   | 22.0                           | 59.7                            | 101.0                  | Marginal (decent but not ideal) | 
 19
  |
-| 2026 Jeep Grand Wagoneer     | Series I, II, Obsidian, III               | 95000              | 510/670       | 5.9/4.7                | 14             | N/A           | N/A             | 40.9               | 42.7                    | 36.6                   | 27.4                           | 70.9                            | 94.2                   | Yes (generous space)
+| 2026 Jeep Grand Wagoneer     | Series I, II, Obsidian, III               | 95000              | 510/670       | 5.9/4.7                | 14             | N/A           | N/A             | 40.9               | 42.7                    | 36.6                   | 27.4                           | 70.9                            | 94.2                   | Yes (generous space) | 
 6
  |
 | 2026 Land Rover Defender 130 | S, X-Dynamic SE, X, First Edition         | 70000              | 296/518       | 7.5/5.4                | 20             | N/A           | N/A             | 39.1               | 38.4                    | 31.7                   | 15.3                           | 35.8                            | 76.1                   | No (limited legroom)
